@@ -18,9 +18,17 @@ Copy đoạn code sau và thực hiện theo yêu cầu.
 
 ```python
 a = "15"
-b = "12.34"
-
 # chuyển a sang kiểu số nguyên và gán giá trị cho biến c.
+# code here
+
+
+b = "12.34"
 # chuyển b sang kiểu số thực và gán giá trị cho biến d.
+# code here
+
+
 # in tổng của c và d ra màn hình.
+# code here
+
+
 ```
