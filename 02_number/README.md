@@ -3,7 +3,7 @@
 ## Bài 1:
 
 - Tạo một biến `firstNumber` và gán giá trị là một số bất kỳ cho nó.
-- Tạo một biến `secondNumber` và gán giá trị là một số bất kỳ cho n
+- Tạo một biến `secondNumber` và gán giá trị là một số bất kỳ cho nó.
 
 - Tạo một biến `sum` và gán giá trị là tổng của `firstNumber` và `secondNumber`.
 - Tạo một biến `sub` và gán giá trị là hiệu của `firstNumber` và `secondNumber`.
